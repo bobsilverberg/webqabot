@@ -9,7 +9,7 @@
     "hubot": "^2.16.0",
     "hubot-bugzilla": "0.0.1",
     "hubot-diagnostics": "0.0.1",
-    "hubot-github-repo-event-notifier2": ">= 0.0.0",
+    "hubot-github-repo-event-notifier2": "bobsilverberg/hubot-github-repo-event-notifier",
     "hubot-help": "^0.1.1",
     "hubot-hipchat": "~2.5.1-5",
     "hubot-irc": "^0.2.8",
